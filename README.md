@@ -36,9 +36,12 @@ This end-to-end ETL and analytics project focuses on analyzing retail sales data
 
 ---
 
-## 🌍 Project Preview
+## 📊 Power BI Dashboard Preview
 
-![Dashboard Preview](PowerBI/dashboard.png)
+![Dashboard 1](Retail%20Sales%20Analysis/PowerBI/dashboard1.png)
+
+![Dashboard 2](Retail%20Sales%20Analysis/PowerBI/dashboard2.png)
+
 
 ---
 
