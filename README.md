@@ -1,5 +1,5 @@
 
-# Retail Sales Analysis Project
+# Superstore Sales Analysis Project
 
 This end-to-end ETL and analytics project focuses on analyzing retail sales data using **Python**, **PostgreSQL**, and **Power BI** to extract insights and visualize trends across product categories, regions, and customer segments.
 
