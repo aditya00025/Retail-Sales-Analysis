@@ -5,7 +5,7 @@ This end-to-end ETL and analytics project focuses on analyzing retail sales data
 
 ---
 
-## 🚀 Project Flow
+## Project Flow
 
 1. **Python (Google Colab)**
    - Cleaned and preprocessed raw Superstore data using pandas.
@@ -21,14 +21,14 @@ This end-to-end ETL and analytics project focuses on analyzing retail sales data
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 - Python (`pandas`, `matplotlib`)
 - SQL (PostgreSQL)
 - Power BI
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Top 10 products and sub-categories by sales and profit.
 - Profitability trends across states and segments.
 - Time-based trends using year and month from order date.
@@ -36,7 +36,7 @@ This end-to-end ETL and analytics project focuses on analyzing retail sales data
 
 ---
 
-## 📊 Power BI Dashboard Preview
+## Power BI Dashboard Preview
 
 ![Dashboard](./dashboard1.png)
 
@@ -45,14 +45,14 @@ This end-to-end ETL and analytics project focuses on analyzing retail sales data
 
 ---
 
-## ✅ Outcomes
+## Outcomes
 - Improved skills in data cleaning and SQL-based analytics.
 - Gained experience building professional dashboards.
 - Understood business context from raw retail data.
 
 ---
 
-## 📘 Learnings
+## Learnings
 - Data transformation and filtering using pandas.
 - Writing SQL queries for aggregations, rankings, and time-based analysis.
 - Designing visual dashboards in Power BI.
