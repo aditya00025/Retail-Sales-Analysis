@@ -115,6 +115,8 @@ SELECT product_name, category, sales,
 RANK() OVER (PARTITION BY category ORDER BY sales DESC) AS rank
 FROM superstore;
 
+-- CTE
+
 -- Top 5 products from each category based on sales rank
 WITH RankedProducts AS (
     SELECT product_name, category, sales, 
